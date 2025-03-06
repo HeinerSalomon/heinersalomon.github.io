@@ -4,12 +4,12 @@ project:
 
 
 website:
-  title: "My website"
-  description: "I am a scientist"
+  title: "Website of Heiner Salomon"
+  description: "This is the website highlighting Heiner's scientific and policy career"
   site-url: https://pakillo.github.io/academic-website-template-Quarto
   repo-url: https://github.com/Pakillo/academic-website-template-Quarto
   # favicon: logo.png
-  twitter-card: true
+  twitter-card: false
   #   creator: "@handle"
   #   site: "@handle"
   open-graph: true
@@ -60,6 +60,3 @@ format:
 
 execute:
   freeze: auto  # re-render only when source changes
-
-
-
